@@ -1,7 +1,9 @@
 # Arduino Project Overview
 
-## 📚 Libraries Used
+# 🎮 Arduino Game Project Overview
 
+## 📚 Libraries Used
+```cpp
 #include <EEPROM.h>
 #include <LiquidCrystal.h>
 
